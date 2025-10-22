@@ -1,0 +1,5 @@
+The burndown chart displays dates along the X-axis and story points along the Y-axis. It includes an ideal burndown line, 
+which represents a steady, linear rate of progress based on the total story points and the total time available. 
+By comparing the actual remaining story points to this ideal line, we can quickly assess our project’s progress. 
+If the remaining points are above the ideal line, it indicates that we’re behind schedule; if they’re below the line, 
+it means we’re ahead of schedule.
